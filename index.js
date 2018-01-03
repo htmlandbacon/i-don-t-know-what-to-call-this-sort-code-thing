@@ -1,0 +1,1 @@
+module.exports = require('./sort-code-is-building-society.js');
